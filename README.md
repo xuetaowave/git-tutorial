@@ -1,2 +1,4 @@
 This project is for git tutorial
--fix-B
+-feature-A
+-feature-B
+-feature-C
