@@ -1,3 +1,4 @@
 # TEST
-## equation: $$ (a+b)  $$
+## equation: 
+$$(a+b)$$
 $$a + b$$
